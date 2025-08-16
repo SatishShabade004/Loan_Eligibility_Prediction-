@@ -7,12 +7,6 @@ in the Jupyter notebook: **`loan-prediction (1).ipynb`**.
 ## 🎯 Problem Statement
 Given applicant details (income, credit history, dependents, property area, etc.), predict whether a loan
 application will be **approved** or **rejected** (binary classification).
-
-## 📂 Repository Structure
-```
-.
-├── loan-prediction (1).ipynb     # Main notebook with EDA → features → model → evaluation
-└── README.md          # You are here
 ```
 
 (If you have CSVs, place them alongside the notebook, e.g. `loan-test.csv, loan-train.csv`.)
